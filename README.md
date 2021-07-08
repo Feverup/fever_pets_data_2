@@ -1,1 +1,3 @@
-# fever_pets_data_external
+## Try it
+
+[https://my-json-server.typicode.com/Feverup/fever_pets_data](https://my-json-server.typicode.com/Feverup/fever_pets_data)

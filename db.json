@@ -1,0 +1,33 @@
+{
+  "dogs": [
+    {
+      "id": 3,
+      "name": "Rocky",
+      "weight": 7.5,
+      "height": 20,
+      "length": 35,
+      "picture": "https://cdn2.thedogapi.com/images/rJH9KQoEX.gif",
+      "description": "Rocky dogggy cupim rump salami"
+    },
+    {
+      "id": 34,
+      "name": "Buz",
+      "weight": 8.1,
+      "height": 60,
+      "length": 142,
+      "picture": "https://cdn2.thedogapi.com/images/BJT0Jx5Nm_1280.jpg",
+      "description": "Buz painted drumstick pork chop"
+    }
+  ],
+  "cats": [
+    {
+      "id": 2,
+      "name": "Paws",
+      "weight": 3.5,
+      "height": 15,
+      "length": 25,
+      "picture": "https://cdn2.thedogapi.com/images/rJH9KQoEX.gif",
+      "description": "Boots poos cupim rump as"
+    }
+  ]
+}
